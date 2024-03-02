@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="main"></div>
+        <h1>Телеграм бот приветствует тебя</h1>
+        <img scr= "https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fbesthqwallpapers.com%2FUploads%2F2-8-2020%2F139052%2Ftelegram-violet-logo-4k-violet-brickwall-telegram-logo-social-networks.jpg&lr=121784&pos=1&rpt=simage&text=телеграмм%20лого%20фиолетовый">
+        <p>Нажми на кнопку</p>
+        <button id="buy">Кнопка</button>
+    </div>
+
+</body>
+</html>
